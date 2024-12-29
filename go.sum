@@ -1,0 +1,15 @@
+github.com/dsnet/golib/jsonfmt v0.0.0-20190531212259-571cdbcff553/go.mod h1:C0/DCakJBCSVJ3mWBjDVzym2Wf7w5hpvwgHCwI/M7/w=
+github.com/dsnet/golib/jsonfmt v1.0.0 h1:qrfqvbua2pQvj+dt3BcxEwwqy86F7ri2NdLQLm6g2TQ=
+github.com/dsnet/golib/jsonfmt v1.0.0/go.mod h1:C0/DCakJBCSVJ3mWBjDVzym2Wf7w5hpvwgHCwI/M7/w=
+github.com/dsnet/golib/unitconv v0.0.0-20190531212259-571cdbcff553/go.mod h1:86KTUtTJFLreKjc4sS9xE0rhj4lR44Ox0rEQSEXSWwM=
+github.com/dsnet/golib/unitconv v1.0.2 h1:45gXng3Op1vTrnX1PdM9Bla4mEpBFYA5aC8dlqacmwM=
+github.com/dsnet/golib/unitconv v1.0.2/go.mod h1:86KTUtTJFLreKjc4sS9xE0rhj4lR44Ox0rEQSEXSWwM=
+github.com/dsnet/udptunnel v0.0.0-20190531212731-0230d34fb1b5 h1:CbFM6F5bgLnM8iUzYqygGWRPHknPICIlDA0CJ8faA54=
+github.com/dsnet/udptunnel v0.0.0-20190531212731-0230d34fb1b5/go.mod h1:BCFbRlMjx2qvlxAuST7QBbJLUV5IN04gpmJJCS/WLOc=
+github.com/google/go-cmp v0.3.0/go.mod h1:8QqcDgzrUqlUb/G2PQTWiueGozuR1884gddMywk6iLU=
+github.com/songgao/water v0.0.0-20190402020555-6ad6edefb15c/go.mod h1:P5HUIBuIWKbyjl083/loAegFkfbFNx5i2qEP4CNbm7E=
+github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8 h1:TG/diQgUe0pntT/2D9tmUCz4VNwm9MfrtPr0SU2qSX8=
+github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8/go.mod h1:P5HUIBuIWKbyjl083/loAegFkfbFNx5i2qEP4CNbm7E=
+golang.org/x/sys v0.0.0-20190531175056-4c3a928424d2/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.28.0 h1:Fksou7UEQUWlKvIdsqzJmUmCX3cZuD2+P3XyyzwMhlA=
+golang.org/x/sys v0.28.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
